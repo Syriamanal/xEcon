@@ -1,0 +1,15 @@
+name=xEcon
+description=I dont know what this is XD
+authors:
+- PEMapModder
+load: xEcon
+# Case insensitive
+main: "PEMapModder\xEcon\xEconPlugin"
+version: 1.0
+api: [1.0.0]
+commands:
+  wlist:
+    description:xEcon Plugin
+    usage: 
+    aliases:
+    -
